@@ -93,4 +93,4 @@ def eval(string):
             
             # We don't need an else statement because these 5 statements cover all cases
 
-    return(float(parsed.pop()))
+    return(parsed.pop())
